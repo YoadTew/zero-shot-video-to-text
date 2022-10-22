@@ -13,7 +13,7 @@
 ```bash
 $ python run.py 
 --token_wise--randomized_prompt
---run_type aption_videos
+--run_type caption_videos
 --data_path examples/example_video.mp4
 ```
 
